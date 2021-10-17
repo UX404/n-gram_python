@@ -46,7 +46,7 @@ python test.py -n 2 -inst every-day-he-gets-up-at-six-goes-jogging-and-eats-brea
 which outputs:
 
 ```
-PPL = PPL = 658.55327
+PPL = PPL = 581.36260
 ```
 
 ## Interesting facts
@@ -59,17 +59,17 @@ python test.py -n 2 -inst mother-always-say-an-apple-a-day-keeps-the-doctor-away
 gets the result:
 
 ```
-PPL = 1784.13000
+PPL = 1122.59597
 ```
 
 ```bash
-python test.py -n 2 -inst apple-always-say-a-doctor-a-day-keeps-the-mother-away
+python test.py -n 2 -inst apple-always-say-an-doctor-a-day-keeps-the-mother-away
 ```
 
 gets the result:
 
 ```
-PPL = 1234.91200
+PPL = 1264.10669
 ```
 
 ```bash
@@ -79,7 +79,7 @@ python test.py -n 2 -inst always-away-mother-an-apple-day-doctor-a-keeps-the-say
 gets the result:
 
 ```
-PPL = 4745.61768
+PPL = 1747.99034
 ```
 
-As the sentence gets more chaos, PPL increases.
+As the sentence gets more confused, PPL increases.
