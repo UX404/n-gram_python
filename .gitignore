@@ -1,6 +1,7 @@
 # Preoject-related
 n_gram_bank/
 data/temp.txt
+gadgets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
